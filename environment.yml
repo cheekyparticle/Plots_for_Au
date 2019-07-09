@@ -1,8 +1,0 @@
-name: example-environment
-channels:
-  - conda-forge
-dependencies:
-  - python=2.7.14
-  - numpy
-  - matplotlib
-  - scipy
